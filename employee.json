@@ -1,0 +1,31 @@
+{
+    "name": "abhi",
+    "dob": "01-01-1995",
+    "height": "6'0",
+    "city": "kakinada",
+    "state": "Andhrapradesh"
+}{
+    "name": "ram",
+    "dob": "01-05-1996",
+    "height": "5'0",
+    "city": "hyderabad",
+    "state": "telagana"
+}{
+    "name": "shyam",
+    "dob": "07-08-1995",
+    "height": "5'6",
+    "city": "chennai",
+    "state": "tamil nadu"
+}{
+    "name": "david",
+    "dob": "19-03-1994",
+    "height": "6'2",
+    "city": "bangalore",
+    "state": "karnataka"
+}{
+    "name": "abhishek",
+    "dob": "21-08-1996",
+    "height": "5'7",
+    "city": "luknow",
+    "state": "uttarpradesh"
+}
